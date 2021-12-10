@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nath-82
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning C++, Javascript
+- 👀 I’m interested in App Development, Automation
+- 🌱 I’m currently learning C++, Kotlin, Javascript
 - 💞️ I’m looking to collaborate on anything that makes me money kek
 - 📫 How to reach me by messaging me on my open project 
 
